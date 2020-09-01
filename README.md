@@ -1,2 +1,2 @@
 # vtep.offload
-VxLAN VTEP Offloading based on eBPF and FPGA/SmartNiC
+a VTEP implementation based on eBPF and FPGA/SmartNiC
