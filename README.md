@@ -1,2 +1,2 @@
-# vtep.co
-a VTEP implementation based on eBPF and FPGA/SmartNiC
+# vm-vtep.offload
+VM's VTEP offload based on eBPF and FPGA/SmartNiC
