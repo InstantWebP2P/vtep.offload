@@ -1,2 +1,2 @@
-# vtep.offload
+# vtep.hard
 a VTEP implementation based on eBPF and FPGA/SmartNiC
