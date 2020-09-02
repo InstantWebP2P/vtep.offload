@@ -1,2 +1,2 @@
 # vtep.offload
-VTEP offload based on eBPF and FPGA/SmartNiC
+VTEP offload in hw/sw codesign
