@@ -1,2 +1,2 @@
 # vtep.offload
-VTEP offload in hw/sw codesign
+VTEP offload in hw/sw co-design
